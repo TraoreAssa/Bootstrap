@@ -1,0 +1,19 @@
+.menu{
+    float: left;
+    color: black;
+    background: white;
+}
+
+.jumbotron{
+    background-color:gray;
+    color: white;
+    height: 300px;
+}
+.clear{
+    clear: both;
+}
+
+.titre{
+    font-size: 15pt;
+}
+
